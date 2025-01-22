@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is William Guaña and I'm a Fullstack Developer from Ecuador</h2>
+<h1 align="left">Hi 👋! My name is William Guaña and I'm a Fullstack Developer from Ecuador</h2>
 
 ###
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+<h2 align="left">Skills</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
